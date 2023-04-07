@@ -7,7 +7,7 @@
             <a
 							data-report-click='{"spm":"3001.4476"}'
 							data-report-query="spm=3001.4476"
-							href="http://scblogs.cn/"
+							href="http://localhost:8080/"
 						>
 							<img id="icon" title="首页" src="../../../assets/img/long-logo.png"/>
 						</a>
@@ -47,9 +47,9 @@
 
             <li class="" title="技术问题，有问必答">
               <a
-								data-report-click='{"mod":"popu_336","dest":"http://scblogs.cn/","spm":"3001.4492"}'
+								data-report-click='{"mod":"popu_336","dest":"http://localhost:8080/","spm":"3001.4492"}'
 								data-report-query="spm=3001.4492"
-								href="http://scblogs.cn/"
+								href="http://localhost:8080/"
               >
                 问答
                 <!-- 校园风采 -->
@@ -67,9 +67,9 @@
 
             <li class="" title="看看美丽的校园">
               <a
-								data-report-click='{"mod":"popu_336","dest":"http://scblogs.cn/","spm":"3001.4482"}'
+								data-report-click='{"mod":"popu_336","dest":"http://localhost:8080/","spm":"3001.4482"}'
 								data-report-query="spm=3001.4482"
-								href="http://scblogs.cn/"
+								href="http://localhost:8080/"
               >
                 校园风采
               </a>
